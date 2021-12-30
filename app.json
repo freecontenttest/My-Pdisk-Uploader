@@ -1,0 +1,30 @@
+{
+"name": "My-Pdisk-Uploader-Bot",
+  "description": "Telegram's best My-Pdisk-Uploader-Bot",
+  "keywords": [
+    "telegram",
+    "best",
+    "All-In-One-TG-Bot"
+  ],
+  "success_url": "https://t.me/my_channels_list_official",
+  "website": "https://github.com/freecontenttest/My-Pdisk-Uploader",
+  "repository": "https://github.com/freecontenttest/My-Pdisk-Uploader",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Your bot token, as a string.",
+      "value": ""
+    },
+    "ENV": {
+      "description": "Don't edit this Var😎",
+      "value": "False"
+    },
+    "TIME": {
+       "description": "Just Testing Time",
+        "value": "5000"
+    },
+    "SUDO_USERS": {
+      "description": "allow only pre-defined users to use this bot",
+      "value": "1532971861"
+    }
+  }
+}
